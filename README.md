@@ -38,6 +38,8 @@ https://www.youtube.com/watch?v=wTYCF0Vpy4M&ab_channel=iforce2d
 - from Ardupilot: https://ardupilot.org/copter/docs/common-simplebgc-gimbal.html
 - https://shop.iflight-rc.com/basecam-simplebgc-32-bit-extended-encoder-version-gimbal-controller-pro276
 - from ArialPixels: https://aerialpixels.com/product-category/gimbals/brushless-gimbal-controllers/
+- https://www.youtube.com/watch?v=Bk_Q47tTlBI&ab_channel=OlliW42   <-- 
+- 
 
 
 
