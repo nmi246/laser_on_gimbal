@@ -42,7 +42,10 @@ https://www.youtube.com/watch?v=wTYCF0Vpy4M&ab_channel=iforce2d
 - 
 
 
-
+# Notes:
+#### Types of Gimbal controllers:
+- brushless direct drive gimbals (Tarot, SimpleBGC, SToRM32)
+- simpler servo-driven gimbals
 
 
 
